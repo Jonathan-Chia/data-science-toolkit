@@ -54,9 +54,9 @@ Metrics for the above models.
 
 * Streamlit
 
-## AI Agent
+## Github Copilot
 
-Context Aware AI-agent that can reference all my useful code - using Continue.dev. 
+Use this for faster coding.
 
 
 ## Getting Started

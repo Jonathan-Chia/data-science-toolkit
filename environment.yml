@@ -1,0 +1,20 @@
+name: data-science-toolkit
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - ydata-profiling
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipython
+  - ipywidgets
+  - jupyter
+  - ipykernel
+  - networkx
+  - streamlit=1.29
+  - scikit-learn
+  - pyarrow
+  - pandasql
